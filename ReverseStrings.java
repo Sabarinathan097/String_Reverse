@@ -2,7 +2,7 @@ public class Reverse_String {
 	
 	public static void main(String[] args) {
 		
-		String name = "Arun";
+		String name = "Sabari";
 		
 		String reverse="";
 		
