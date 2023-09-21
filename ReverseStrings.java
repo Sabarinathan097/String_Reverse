@@ -16,7 +16,8 @@ public class Reverse_String {
 			reverse = reverse+name.charAt(i);
 			
 		}
-		
+
+		System.out.println("String reversed");
 		System.out.println(reverse);
 	}
 
